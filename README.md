@@ -1,6 +1,6 @@
 ## Hello, I'm George <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm George Orzanescu a computer science enthusiast. I Spend most of time studying for my college degree , curently year I at Bucharest Academy of Economic Studies - Economic Cybernetics, Statistics, and Informatics.
+I'm George Orzanescu a computer science enthusiast. I Spend most of time studying for my college degree , curently year II at Bucharest Academy of Economic Studies - Economic Cybernetics, Statistics, and Informatics.
 
 :email: Reach me out!
 
@@ -9,7 +9,7 @@ I'm George Orzanescu a computer science enthusiast. I Spend most of time studyin
 
 ## FAQ
 
-- 🔭 I’m currently working at @AviatieiWellnessCenter
+- 🔭 I’m currently working as a Freelancer, mostly Django/React 
 - ⚡ I like swimming , chess , physiscs and programming
 - 🤘  Diablo 2 player
 
