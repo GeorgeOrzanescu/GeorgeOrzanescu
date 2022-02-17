@@ -9,9 +9,9 @@ I'm George Orzanescu a computer science enthusiast. I Spend most of time studyin
 
 ## FAQ
 
-- 🔭 I’m currently working as a Freelancer, mostly Django/React 
+- 🔭 I’m currently learning NodeJs with Express , TypeScript and Kubernetes!
 - ⚡ I like swimming , chess , physiscs and programming
-- 🤘  Diablo 2 player
+- 🤘 Diablo 2 player
 
 ## Programming languages
 
