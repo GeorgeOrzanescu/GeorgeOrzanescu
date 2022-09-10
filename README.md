@@ -1,6 +1,6 @@
 ## Hello, I'm George <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm George Orzanescu a computer science enthusiast. I Spend most of time studying for my college degree , curently year II at Bucharest Academy of Economic Studies - Economic Cybernetics, Statistics, and Informatics.
+I'm George Orzanescu a computer science enthusiast. I Spend most of time studying for my college degree , curently in my last year at Bucharest Academy of Economic Studies - Economic Cybernetics, Statistics, and Informatics.
 
 :email: Reach me out!
 
@@ -23,7 +23,7 @@ I'm George Orzanescu a computer science enthusiast. I Spend most of time studyin
 
 ## Dev
 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Design 
 
