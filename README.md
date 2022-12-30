@@ -1,9 +1,10 @@
 ## Hello, I'm George <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm George Orzanescu a computer science enthusiast. I Spend most of time studying for my college degree , curently in my last year at Bucharest Academy of Economic Studies - Economic Cybernetics, Statistics, and Informatics.
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
+Hello, I'm George! I'm a computer science enthusiast currently in my final year at the Bucharest Academy of Economic Studies, where I'm studying Economic Cybernetics, Statistics, and Informatics. In addition to my studies, I also work at Adobe in the Bucharest office. I spend most of my time studying for my college degree and working at Adobe, but I also enjoy staying up to date with the latest technology and trends in the field.
 
 :email: Reach me out!
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-George-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-orzanescu-551654202/) [![Mail Badge](https://img.shields.io/badge/-@nea.apricot-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/nea.apricot/) [![Mail Badge](https://img.shields.io/badge/-g.asro-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:george.asro@gmail.com)
 
