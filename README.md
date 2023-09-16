@@ -11,8 +11,8 @@ Hello, I'm George! I'm a computer science enthusiast currently in my final year 
 
 ## FAQ
 
-- 🔭 I’m currently learning NodeJs with Express , TypeScript and Kubernetes!
-- ⚡ I like swimming , chess , physiscs and programming
+- 🔭 I’m currently working with NodeJs and Express , TypeScript , Lit, MobX and Kubernetes!
+- ⚡ I like swimming , chess , physiscs and programming.
 - 🤘 Diablo 2 player
 
 ## Programming languages
